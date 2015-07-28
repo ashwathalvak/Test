@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Project/Pronto/LingPipe/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Project/Pronto/Lucene/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Project/Pronto/Lucene/lucene-analyzers-common-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Project/Pronto/Lucene/lucene-core-4.8.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_65"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
