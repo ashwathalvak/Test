@@ -24,7 +24,6 @@ import com.aliasi.classify.Classified;
 import com.aliasi.classify.ConditionalClassification;
 import com.aliasi.classify.LMClassifier;
 import com.aliasi.classify.NaiveBayesClassifier;
-import com.aliasi.classify.TfIdfClassifierTrainer;
 import com.aliasi.corpus.ObjectHandler;
 import com.aliasi.tokenizer.EnglishStopTokenizerFactory;
 import com.aliasi.tokenizer.LowerCaseTokenizerFactory;
